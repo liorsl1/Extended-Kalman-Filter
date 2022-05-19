@@ -3,7 +3,7 @@
 
 #### <ins>The Goal</ins> : Estimate the moving object's state (position and velocity), detected by both Radar and Lidar sensors, using kalman filters.
 
-#### <ins>Input</ins> : Lidar & Radar Raw data (Lidar - red circles, Radar - blue circles), coming from Udacity's Simulator, mentioned in the project instructions below.
+#### <ins>Input</ins> : Lidar & Radar Raw noisy data (Lidar - red circles, Radar - blue circles), coming from Udacity's Simulator, mentioned in the project instructions below.
 
 #### <ins>Output</ins> : Estimated markers from the filter (green marker in the simulation), and RMSE values.
 
